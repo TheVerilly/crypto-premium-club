@@ -1,0 +1,19 @@
+{
+  "name": "crypto-club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp index.html ./public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVerilly/crypto-premium-club.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVerilly/crypto-premium-club/issues"
+  },
+  "homepage": "https://github.com/TheVerilly/crypto-premium-club#readme"
+}
