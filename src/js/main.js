@@ -1,3 +1,5 @@
+import '../scss/style.scss';
+
 (function () {
   const win = window
   const doc = document.documentElement
