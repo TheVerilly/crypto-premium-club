@@ -23,7 +23,7 @@
     "build:css": "run-s lint-scss scss autoprefixer",
     "build:js": "run-s lint uglify",
     "build:images": "run-s imagemin",
-    "build": "run-s build:*",
+    "build": "run-s build:* && cp index.html public",
     "watch:css": "run-s build:css",
     "watch:js": "run-s build:js",
     "watch:images": "run-s build:images",
